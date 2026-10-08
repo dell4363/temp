@@ -1,0 +1,13 @@
+Package: temp
+Title: My package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Endri", "Maskaj", , "maskajendri66@gmail.com", role = c("aut", "cre"))
+Description: My package have one code with some maths.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
